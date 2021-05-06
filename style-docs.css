@@ -250,7 +250,7 @@ h3{
     border-radius: 3px;
 }
 .card-shadow{
-    box-shadow: 5px 5px 20px 1px rgba(49, 151, 149, 0.1);
+    box-shadow: 5px 5px 20px 1px rgba(49, 151, 149, 0.4);
 }
 .horizontal-card{
  display: flex;
